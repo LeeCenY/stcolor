@@ -40,10 +40,14 @@ sysdir
 
 
 ## 使用
--|cncm|jpncm
+&nbsp;|cncm|jpncm
 :---:|:---:|:---:
 作用|绘制中国传统色地图|绘制日本传统色地图
-基本语法| ![](./img/1.png) | ![](./img/2.png)
+基本语法| cncm | jpncm
+&nbsp;|cncm, c(1)|jpncm, c(red)
+&nbsp;|cncm, c(2)|jpncm, c(brown)
+&nbsp;|cncm, c(3)|jpncm, c(green)
+&nbsp;|&nbsp;|jpncm, c(yellow)
 
 ### 两个命令的运行结果
 
