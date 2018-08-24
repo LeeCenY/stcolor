@@ -1,0 +1,3 @@
+v 0.0.0.9000
+d stcolor: 在Stata绘图中使用中国和日本传统色。
+p stcolor: 在Stata绘图中使用中国和日本传统色。
