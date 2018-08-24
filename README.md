@@ -6,6 +6,8 @@ stcolor: 在Stata绘图中使用中国和日本传统色<img src="https://github
 
 这两个命令——`cncm`和`jpncm`可以绘制出一些颜色板，或者称之为颜色地图。同时为了能够直接使用这些颜色，我还编写了284个颜色文件，安装好这些文件就能直接使用所有的颜色了。
 
+> 如果颜色文件没有安装成功，可以到`plus文件夹`下的c文件夹找到`colorstyle.zip`文件解压之后把里面的文件拷贝到`plus文件夹`下的`style文件夹`中即可。
+
 ## 安装
 
 ### 安装方法一：
@@ -14,7 +16,7 @@ stcolor: 在Stata绘图中使用中国和日本传统色<img src="https://github
 net install stcolor, from("http://www.czxa.top/stcolor")
 ```
 
-### 安装方法二：
+### 安装方法二(这个安装方法可以直接安装颜色文件)：
 
 * 首先你需要安装github命令，这个命令是用来安装github上的命令的：
 
