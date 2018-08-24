@@ -2,7 +2,7 @@ stcolor: 在Stata绘图中使用中国和日本传统色<img src="https://github
 ========================================================
 [![](https://img.shields.io/badge/My-Stata-brightgreen.svg?style=plastic)](http://www.czxa.top) [![](https://img.shields.io/badge/github-Stata-orange.svg?style=plastic)](http://www.czxa.top) [![](https://img.shields.io/badge/platform-Mac_OS|Windows_OS-orange.svg?style=plastic)](http://www.czxa.top) [![](https://img.shields.io/badge/Fork-0-orange.svg?style=social)](http://www.czxa.top)
 
-这个程序包里面包含了284个Stata颜色文件和两个Stata绘图命令。
+这个程序包里面包含了281个Stata颜色文件和两个Stata绘图命令。
 
 这两个命令——`cncm`和`jpncm`可以绘制出一些颜色板，或者称之为颜色地图。同时为了能够直接使用这些颜色，我还编写了284个颜色文件，安装好这些文件就能直接使用所有的颜色了。
 

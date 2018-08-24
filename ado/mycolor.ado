@@ -6,7 +6,7 @@ prog def mycolor
 	foreach i in `colorstyle'{
 		qui percentencode `i'
 		copy "https://github.com/czxa/stcolor/raw/master/colorstyle/`r(percentencode)'" "`c(sysdir_plus)'/style/`i'", replace
-		di "共284个，已完成第`j'个!"
+		di "共281个，已完成第`j'个!"
 		local j = `j' + 1
 	}
 end 
