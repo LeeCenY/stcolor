@@ -40,32 +40,10 @@ sysdir
 
 
 ## 使用
-### cncm命令
-这个命令用来绘制中国传统色地图。
-语法非常简单：
-```stata
-cncm
-cncm, c(1)
-cncm, c(2)
-cncm, c(3)
-```
-
-![](http://www.czxa.top/mr/20180716a3.png)
-
-选项color(num)用于选择色板，有1，2，3三个选项。可以简写为c。
-
-### jpncm命令
-这个命令用于绘制日本传统色地图。
-语法同样非常简单：
-```stata
-jpncm
-jpncm, c(red)
-jpncm, c(brown)
-jpncm, c(green)
-jpncm, c(yellow)
-```
-
-![](http://www.czxa.top/mr/20180716a4.png)
+-|cncm|jpncm
+:---:|:---:|:---:
+作用|绘制中国传统色地图|绘制日本传统色地图
+基本语法| ![](./img/1.png) | ![](./img/2.png)
 
 ### 两个命令的运行结果
 
