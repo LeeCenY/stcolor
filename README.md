@@ -69,19 +69,12 @@ jpncm, c(yellow)
 
 ### 两个命令的运行结果
 
-![](http://www.czxa.top/mr/20180716a5.png)
-
-![](http://www.czxa.top/mr/20180716a6.png)
-
-![](http://www.czxa.top/mr/20180716a7.png)
-
-![](http://www.czxa.top/mr/20180716a8.png)
-
-![](http://www.czxa.top/mr/20180716a9.png)
-
-![](http://www.czxa.top/mr/20180716a10.png)
-
-![](http://www.czxa.top/mr/20180716a11.png)
+中国传统色|日本传统色
+:---:|:---:
+![](http://www.czxa.top/mr/20180716a5.png)| ![](http://www.czxa.top/mr/20180716a8.png)
+![](http://www.czxa.top/mr/20180716a6.png)| ![](http://www.czxa.top/mr/20180716a9.png)
+![](http://www.czxa.top/mr/20180716a7.png)| ![](http://www.czxa.top/mr/20180716a10.png)
+-|![](http://www.czxa.top/mr/20180716a11.png)
 
 ### 安装好之后的颜色使用示例
 另外的284个颜色文件的作用就是是的上面图片上的颜色可以被直接使用，例如：
